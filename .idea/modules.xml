@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApp.iml" filepath="$PROJECT_DIR$/MyApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/MyApp.lib.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/MyApp.lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mylibrary/MyApp.mylibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/mylibrary/MyApp.mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poi_fetecher/MyApp.poi_fetecher.iml" filepath="$PROJECT_DIR$/.idea/modules/poi_fetecher/MyApp.poi_fetecher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poi_scrapper/MyApp.poi_scrapper.iml" filepath="$PROJECT_DIR$/.idea/modules/poi_scrapper/MyApp.poi_scrapper.iml" />
+    </modules>
+  </component>
+</project>
